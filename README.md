@@ -1,0 +1,4 @@
+- 👋 Merhaba ben Space.
+- 👀 Ben genellikle D.JS kodluyorum.
+- 🌱 Şuan HTML ve D.JS öğreniyorum
+- 📫 Bana ulaşmak için youtube.com/spacecodes
